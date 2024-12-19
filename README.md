@@ -6,9 +6,9 @@ This Power BI dashboard visualizes insights from a survey of 630 data profession
 - Difficulty in entering the data industry
 
 ## File Details
-- `Data_Professionals_Survey.pbix`: Power BI dashboard file.
-- Source: [Survey dataset link, if available]
+- `Final Project Power BI_Denisa Auralia.pbix`: Power BI dashboard file.
+- Source: [Alex The Analyst]
 
 ## How to Use
-1. Download the `.pbix` file.
+1. Download the `Final Project Power BI_Denisa Auralia.pbix` file.
 2. Open it with Microsoft Power BI Desktop.
