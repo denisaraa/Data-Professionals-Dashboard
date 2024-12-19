@@ -7,7 +7,7 @@ This Power BI dashboard visualizes insights from a survey of 630 data profession
 
 ## File Details
 - `Final Project Power BI_Denisa Auralia.pbix`: Power BI dashboard file.
-- Source: [Alex The Analyst]
+- Source Project Dataset: [Power BI - Final Project.xlsx]
 
 ## How to Use
 1. Download the `Final Project Power BI_Denisa Auralia.pbix` file.
